@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/read-flights.js": {
-      "maxDuration": 60
-    }
-  }
-}
